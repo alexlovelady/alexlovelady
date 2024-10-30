@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexlovelady
-- 👀 I’m interested in building custom auto traders for Sierra Chart
-- 🌱 I’m currently learning C++ and ACSIL
-- 📫 How to reach me alexander.s.lovelady@gmail.com
+- 👀 I’m interested in ethical hacking and automation
+- 🌱 I’m currently studying Cybersecurity and practicing red team activities
+- 📫 How to reach me alex@alexanderlovelady.com
 
 <!---
 alexlovelady/alexlovelady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
